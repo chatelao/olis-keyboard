@@ -1,6 +1,20 @@
 # olis-keyboard
 Alles um meinen Keybaord Eigenbau (Lotus58 light)
 
+https://techwithtech.com/mechanical-keyboard-parts/
+
+Keycaps / Kappen
+Switches / Taster
+/ Plate
+/ Gaskets
+Microcontroller
+PCBs / Leiterplatine
+Firmware
+Deckplatte
+Gehäuse
+Stabilazors
+LED
+
 
 # Glossar (am Anfang war das Wort)
 - https://www.digitec.ch/de/page/so-baust-du-dir-deine-eigene-tastatur-10425
