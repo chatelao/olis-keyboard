@@ -7,4 +7,5 @@ Alles um meinen Keybaord Eigenbau (Lotus58 light)
 - https://computerbild.de/artikel/cb-Tipps-PC-Hardware-Mechanische-Tastaturen-selber-bauen-30207241.html
 
 # Tastaturgrössen
-https://switchandclick.com/keyboard-sizes/
+https://switchandclick.com/keyboard-sizes
+https://www.keychron.com/blogs/news/keyboard-size-layout-buying-guide
